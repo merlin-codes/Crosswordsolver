@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Crossword Solver</string>
+    <string name="ONLY_NUMBERS">[^0-9]</string>
+    <string name="ONLY_CHARACTERS">[^a-zA-Z]</string>
+    <string name="new_line">\n</string>
+</resources>
